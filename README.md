@@ -2,10 +2,10 @@
 Adult Income Classification using Decision Tree, KNN, Naive Bayes, Random Forest, SVM, and MLP
 
 Testing Accuracy -
-DT    :0.850;
-KNN   :0.800;
-NB    :0.790;
-RF    :0.854;
-SVM   :0.793;
-NN    :0.847;
+DT    :85,0%;
+KNN   :80,0%;
+NB    :79,0%;
+RF    :85,4%;
+SVM   :79,3%;
+NN    :84,7%;
 
